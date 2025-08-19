@@ -20,4 +20,5 @@ def math():
     print(resto)
 
     division_real = a/b
-    print(divicion_real)
+    print(division_real)
+math()
